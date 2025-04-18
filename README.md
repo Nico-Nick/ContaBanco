@@ -1,4 +1,4 @@
-# DIO - Trilha Java Básico
+# DIO - Trilha Java 
 www.dio.me
 ### Aluno
 - [Nicolas P.](https://github.com/nico-nick)
