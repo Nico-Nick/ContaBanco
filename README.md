@@ -2,7 +2,7 @@
 www.dio.me
 ### Aluno
 - [Nicolas P.](https://github.com/nico-nick)
-#### Autores
+#### Professor
 - [Gleyson Sampaio](https://github.com/glysns)
 
 ## Sintaxe - Desafio
